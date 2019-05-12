@@ -1,1 +1,2 @@
-I am trying to understand what I have to do.
+# hello-world
+I am trying to understand what I am doing
